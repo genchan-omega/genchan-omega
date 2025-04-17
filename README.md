@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=toufu-24&theme=onedark&column=4
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![https://typograssy.deno.dev/api?text=%E3%81%8A%E3%82%8C%E3%81%AFgenchan%E3%81%A]
