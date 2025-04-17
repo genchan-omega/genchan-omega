@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![https://typograssy.deno.dev/api?text=%E3%81%8A%E3%82%8C%E3%81%AFgenchan%E3%81%A]
+![](https://typograssy.deno.dev/api?text=%E3%81%8A%E3%82%8C%E3%81%AFgenchan%E3%81%A)
