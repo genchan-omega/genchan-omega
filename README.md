@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/genchan_omega/genchan_omega/output/github-contribution-grid-snake.svg">
 </picture>
 
-![](https://typograssy.deno.dev/api?text=%E3%81%8A%E3%82%8C%E3%81%AFgenchan%E3%81%A)
+<!-- ![](https://typograssy.deno.dev/api?text=%E3%81%8A%E3%82%8C%E3%81%AFgenchan%E3%81%A) -->
 
 ## 参考元
 ![typograssy](https://typograssy.deno.dev/)
