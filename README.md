@@ -9,9 +9,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/genchan_omega/genchan_omega/output/github-contribution-grid-snake.svg">
 </picture>
 
-![](https://raw.githubusercontent.com/toufu-24/toufu-24/main/profile-summary-card-output/city_lights/0-profile-details.svg)
+<!-- ![](https://raw.githubusercontent.com/toufu-24/toufu-24/main/profile-summary-card-output/city_lights/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/toufu-24/toufu-24/main/profile-summary-card-output/city_lights/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/toufu-24/toufu-24/main/profile-summary-card-output/city_lights/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/toufu-24/toufu-24/main/profile-summary-card-output/city_lights/3-stats.svg) ![](https://raw.githubusercontent.com/toufu-24/toufu-24/main/profile-summary-card-output/city_lights/4-productive-time.svg)
+![](https://raw.githubusercontent.com/toufu-24/toufu-24/main/profile-summary-card-output/city_lights/3-stats.svg) ![](https://raw.githubusercontent.com/toufu-24/toufu-24/main/profile-summary-card-output/city_lights/4-productive-time.svg) -->
 
 <!--
 <p align="left"> 
@@ -19,9 +19,5 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=toufu-24&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 </p>
 -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=genchan_omega&theme=onedark&column=4
-)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ![](https://typograssy.deno.dev/api?text=%E3%81%8A%E3%82%8C%E3%81%AFgenchan%E3%81%A)
