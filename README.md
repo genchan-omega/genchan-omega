@@ -1,21 +1,7 @@
 ### Hi there 👋
 
-<!--
-**toufu-24/toufu-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![atcoder](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Ftoufu24)](https://atcoder.jp/users/toufu24)
-[![codeforces](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Ftoufu24)](https://codeforces.com/profile/toufu24)
+<!-- [![atcoder](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Ftoufu24)](https://atcoder.jp/users/toufu24)
+[![codeforces](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Ftoufu24)](https://codeforces.com/profile/toufu24) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/genchan_omega/genchan_omega/output/github-contribution-grid-snake-dark.svg">
@@ -34,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=toufu-24&theme=onedark&column=4
+[![trophy](https://github-profile-trophy.vercel.app/?username=genchan_omega&theme=onedark&column=4
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 
